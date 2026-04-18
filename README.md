@@ -13,4 +13,3 @@
 - [Portfolio](index.html#portfolio)
 - [Contact](index.html#contact)
 
-🌐 **Live Portfolio:** https://sanchezs-oos.github.io/E-Portfolio-Steven-Carl-Sanchez
